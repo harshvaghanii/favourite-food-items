@@ -1,2 +1,1 @@
-# favourite-food-items
-A simple static web-page that lists my facourite food items.
+Hello everyone! I have just started my web development journey through a course on Udemy. As a part of a mini project i have created this static webpage that is a blog about  my favourite food items. I'm literally a noob but this is just the start and also, this is my first Github repsitory. Cheers!
